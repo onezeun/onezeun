@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onezeun&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  
+  ### JI EUN 👋
+  
+  ---
+  
+  <a href="https://velog.io/@onezeun"><img src="https://img.shields.io/badge/onezeun.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onzeun&show_icons=true&theme=dracula)](https://github.com/onezeun/github-readme-stats)
+ 
+</div>
 
-<!--
-**onezeun/onezeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
