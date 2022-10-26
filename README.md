@@ -9,12 +9,10 @@
   <br>
   <br>
 
-
-<div>
 <img width="355"  align="left" src="https://github-readme-stats.vercel.app/api?username=onezeun&show_icons=true&i&theme=buefy&hide=stars"/>
   
 <img width="305" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onezeun&theme=buefy&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-</div>
 
 </div>
+
 
